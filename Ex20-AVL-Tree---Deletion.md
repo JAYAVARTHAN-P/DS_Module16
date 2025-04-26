@@ -13,7 +13,7 @@ To write a C function to delete an element from an AVL Tree.
 ## Program:
 
 Program to find and display the priority of the operator in the given Postfix expression
-# Developed by: Jayvarthan P
+# Developed by: Jayavarthan P
 # RegisterNumber: 212222100015  
 
 ```
